@@ -16,8 +16,8 @@
 
 # Chapter 2: Deep Q-learning
 
-## 2.1 Theoretical Foundations of DQN
-- Learner will be able to explain the Deep Q-learning algorithm.
+## 2.1 The DQN algorithm
+- Learner will be able to explain the DQN algorithm.
 - Learner will be able to describe the architecture and components of Deep Q-Networks (DQN), including how neural networks are used to approximate Q-values, the role of experience replay in breaking correlation between sequences, and the purpose of fixed Q-targets in stabilizing the learning process.
 - Terms/concepts introduced: Q-learning, DQN architecture, experience replay, fixed Q-targets, Epsilon greediness.
 
@@ -45,13 +45,13 @@
 - Learner will be able to articulate the relative strengths of policy vs value-based methods
 
 ## 3.2 Policy gradient methods & Reinforce
-- Learner will be able to explain the underlying theory of policy-gradient methods
-- Learner will be able to explain and apply the REINFORCE algorithm.
+- Learner will be able to explain the underlying theory behind policy-gradient methods
+- Learner will be able to explain and apply the Reinforce algorithm
 
 ## 3.3 Proximal Policy Optimization (PPO) Theory
 - Learner will be able to explain the theoretical framework behind PPO and TRPO
 - Learner will be able to compare PPO with TRPO and explain the improvements introduced by PPO
-- Terms introduced: clipped surrogate objective function
+- Terms introduced: KL-divergence, clipped surrogate objective function
 
 ## 3.4 TRPO and PPO Hands-On with PyTorch
 - Learner will be able to apply TRPO and PPO to practical problems using PyTorch, solidifying their understanding through application.
